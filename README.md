@@ -28,14 +28,13 @@ The dataset used in this project consists of movie revenue data collected from v
 ### Visualizations
 1. **Movie Revenue Analyis**
   ![alt text](image-4.png) 
-Insights of the Visuaization:
-- Interpretation of the Visualization:
+Interpretation of the Visualization:
 - The top movies have high grossing total revenues.
 - The revenues of these movies are relatively close to each other indicating a consistently high performance among them.
 - Many of the top grossing movies are part of popular franchises such as Marvel, Star Wars.
 - Most top grossing movies belong to action and fantasy genres indicating their profitability and popularity.
 
-2. **Revenue Distribution of Foreign and Domestic Gross**
+1. **Revenue Distribution of Foreign and Domestic Gross**
 ![alt text](image.png)
  Insights of the visualization:
 - Both domestic and foreign gross revenue distributions are right skewed.
@@ -43,21 +42,21 @@ Insights of the Visuaization:
 - The domestic gross revenue shows that most movies earn less than 200 million dollars. The foreign gross revenue shows that most movies earn less than 400 million dollars.This suggests that most movies earn more in foreign markets than domestic market.
 - There are few movies with high gross revenues shown by the outliers on the right side of both histograms which contributes significantly to the total revenue.
 
-3. **Domestic Gross Vs Foreign Gross**
+1. **Domestic Gross Vs Foreign Gross**
 ![alt text](image-1.png)
 Insights of the Visualization:
 - There is a positive correlation between domestic and forign gross revenues meaning movies that perform well domestically tend to also perform well in foreign markets.
 - A majority of the movies cluster in the lower range of both domestic and foreign revenues with few movies in the higher range.
 - There are several outliers with high revenues in both revenues that earn more than the average. 
 
-4. **Top Grossing Studios**
+1. **Top Grossing Studios**
 ![alt text](image-2.png)  
   Interpretation of the Visualization:
 - Buena Vista(BV) and Warner Bros(WB) are the leading top studios in terms of gross revenues indicating a strong portfolio of successful movies.
 - There is a gap between the highest grossing studios and those on the lower end suggesting a concentration of market power among few studios.
 - Successful studios tend to perform well in both domestic and international markets.
 
-5. **Trend in Movie Revenue Over Years**
+1. **Trend in Movie Revenue Over Years**
  ![alt text](image-3.png) 
 Interpretation of Visualization.
 - There is a clear increase in total gross revenue from 2010 to 2016 indication growth during that period.
@@ -89,4 +88,4 @@ Thank You for viewing this analysis. Please feel free to reach out for any quest
 
 
 [Notebook](https://github.com/AngelaKalelwa/DS_PROJECTS/blob/master/first_project/index.ipynb)
-https://1drv.ms/p/c/020f183b26982933/ETpMonbzrTxCrFlW5aTyhBwB9HRsNhjHznse4h6VYqAIHQ
+[Presentation](https://1drv.ms/p/c/020f183b26982933/ETpMonbzrTxCrFlW5aTyhBwB9HRsNhjHznse4h6VYqAIHQ)
